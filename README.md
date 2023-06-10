@@ -1,3 +1,5 @@
+Important README.
+
 ##TINT2:
 In tintrc change the paths with your username.
 In tint2 left clicking starts conky, right clicking closes conky.
