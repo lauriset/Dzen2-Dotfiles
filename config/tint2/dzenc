@@ -1,0 +1,5 @@
+#!/bin/sh
+FONT='Roboto:Regular:size=8'
+conky -c "/home/lauri/.config/tint2/dzstatus" | dzen2 -bg "#2f343f" -ta right -w 620 -h 25 -x 1345 -y -1080 -fn $FONT &
+#conky -c "/home/lauri/.config/spectrwm/dzwin" | dzen2 -bg "#2f343f" -ta left -w 1275 -h 24 -x 10 -y -1 -fn $FONT &
+exit
